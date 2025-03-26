@@ -13,7 +13,7 @@ with st.sidebar:
 
 
 st.header("This is a header with a divider", divider="rainbow")
-st.header(':orange[***Streamlit***] is :blue[cool] :sunglasses:')
+st.header(':blue[***Streamlit***] is :blue[cool] :sunglasses:')
 
 st.markdown("This is created using markdown.")
 
